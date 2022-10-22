@@ -5,7 +5,7 @@ function nahhuaintvalid()
 end
 
 function goodtogo()
-    pcall(loadstring(readfile("milkware/mainscript.lua")))
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/eLeCtRaDoMiNuS/milkwareclient/main/milkmain.lua"))()
 end
 
 if _G.key == "MILKWAREKEY4VFJSDF0234-675-GBWFHFGH-F-456-456-HGFMILKINTOPWAREYEAGH-42D-DFG-54FGH-FGER" then
