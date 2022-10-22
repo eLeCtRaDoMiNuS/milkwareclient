@@ -17,8 +17,8 @@ end
 setclipboard("https://raw.githubusercontent.com/eLeCtRaDoMiNuS/milkwareclient/main/keyfornow.txt")
 
 game.StarterGui:SetCore("SendNotification",  {
-    Title = "Milkware Client";
-    Text = "key link copied to keyboard go into your browser and paste it there!";
-    Duration = 5;
+    Title = "key link copied to clipboard";
+    Text = "";
+    Duration = 10;
     Callback = NotificationBindable;
 })
