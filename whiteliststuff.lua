@@ -14,7 +14,7 @@ else
     nahhuaintvalid()
 end
 
-
+setclipboard("https://raw.githubusercontent.com/eLeCtRaDoMiNuS/milkwareclient/main/keyfornow.txt")
 
 game.StarterGui:SetCore("SendNotification",  {
     Title = "Milkware Client";
